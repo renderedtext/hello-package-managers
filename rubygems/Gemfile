@@ -1,0 +1,10 @@
+source "http://rubygems.org"
+
+gem "activemerchant"
+gem "capybara"
+gem "eventmachine"
+gem "middleman"
+gem "rails"
+gem "rspec"
+gem "sidekiq"
+gem "simplecov"
