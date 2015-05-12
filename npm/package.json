@@ -1,0 +1,20 @@
+{
+  "name": "hello-package-managers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "dependencies": {
+    "bower": "*",
+    "browserify": "*",
+    "coffee-script": "*",
+    "cordova": "*",
+    "express": "*",
+    "karma": "*",
+    "pm2": "*",
+    "statsd": "*"
+  },
+  "author": "Rendered Text",
+  "license": "MIT"
+}

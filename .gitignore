@@ -1,2 +1,4 @@
 *.swp
+npm/node_modules/
+npm/npm-debug.log
 rubygems/.bundle/
